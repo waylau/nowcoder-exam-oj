@@ -3,7 +3,7 @@ nowcoder-exam-oj 牛客题霸-在线编程 题库题解
 
 题库 | 编程 | 题解 
 ---|---|---
-HJ1	字符串最后一个单词的长度 | [HJ001LengthOfTheLastWordInTheString](/main/src/com/waylau/nowcoder/exam/oj/huawei/HJ001LengthOfTheLastWordInTheString.java)、[HJ001LengthOfTheLastWordInTheString2](/main/src/com/waylau/nowcoder/exam/oj/huawei/HJ001LengthOfTheLastWordInTheString2.java) | [连接](https://developer.huawei.com/consumer/cn/blog/topic/03950984970640368) 
+HJ1	字符串最后一个单词的长度 | [HJ001LengthOfTheLastWordInTheString](/src/com/waylau/nowcoder/exam/oj/huawei/HJ001LengthOfTheLastWordInTheString.java)、[HJ001LengthOfTheLastWordInTheString2](/src/com/waylau/nowcoder/exam/oj/huawei/HJ001LengthOfTheLastWordInTheString2.java) | [连接](https://developer.huawei.com/consumer/cn/blog/topic/03950984970640368) 
 HJ2	计算某字符出现次数 | | 
 HJ3	明明的随机数 | | 
 HJ4	字符串分隔 | | 
