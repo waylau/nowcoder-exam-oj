@@ -3,7 +3,7 @@ nowcoder-exam-oj 牛客题霸-在线编程 题库题解
 
 题库 | 编程 | 题解 
 ---|---|---
-HJ1	字符串最后一个单词的长度 | [HJ001LengthOfTheLastWordInTheString](/src/com/waylau/nowcoder/exam/oj/huawei/HJ001LengthOfTheLastWordInTheString.java)、[HJ001LengthOfTheLastWordInTheString2](/src/com/waylau/nowcoder/exam/oj/huawei/HJ001LengthOfTheLastWordInTheString2.java) | [连接](https://developer.huawei.com/consumer/cn/blog/topic/03950984970640368) 
+HJ1	字符串最后一个单词的长度 | [HJ001LengthOfTheLastWordInTheString](/src/com/waylau/nowcoder/exam/oj/huawei/HJ001LengthOfTheLastWordInTheString.java)、[HJ001LengthOfTheLastWordInTheString2](/src/com/waylau/nowcoder/exam/oj/huawei/HJ001LengthOfTheLastWordInTheString2.java) | [文章](https://developer.huawei.com/consumer/cn/blog/topic/03950984970640368) 
 HJ2	计算某字符出现次数 | | 
 HJ3	明明的随机数 | | 
 HJ4	字符串分隔 | | 
@@ -23,16 +23,16 @@ HJ17	坐标移动 | |
 HJ18	识别有效的IP地址和掩码并进行分类统计 | | 
 HJ19	简单错误记录 | | 
 HJ20	密码验证合格程序 | | 
-HJ21	简单密码 | | 
-HJ22	汽水瓶 | | 
-HJ23	删除字符串中出现次数最少的字符 | | 
-HJ24	合唱队 | | 
-HJ25	数据分类处理 | | 
-HJ26	字符串排序 | | 
-HJ27	查找兄弟单词 | | 
-HJ28	素数伴侣 | | 
-HJ29	字符串加解密 | | 
-HJ30	字符串合并处理 | | 
+HJ21	简单密码 |[HJ021SimplePassword](/src/com/waylau/nowcoder/exam/oj/huawei/HJ021SimplePassword.java) | [文章](https://developer.huawei.com/consumer/cn/blog/topic/03959676183300422) 
+HJ22	汽水瓶 | [HJ022SodaBottle](/src/com/waylau/nowcoder/exam/oj/huawei/HJ022SodaBottle.java) | [文章](https://developer.huawei.com/consumer/cn/blog/topic/03959679097380398) 
+HJ23	删除字符串中出现次数最少的字符 | [HJ023DeleteLeastOccurringCharacterFromString](/src/com/waylau/nowcoder/exam/oj/huawei/HJ023DeleteLeastOccurringCharacterFromString.java) | [文章](https://developer.huawei.com/consumer/cn/blog/topic/03959679688380423) 
+HJ24	合唱队 | [HJ024Chorus](/src/com/waylau/nowcoder/exam/oj/huawei/HJ024Chorus.java) | [文章](https://developer.huawei.com/consumer/cn/blog/topic/03959680171530399) 
+HJ25	数据分类处理 | [HJ025DataClassificationProcessing](/src/com/waylau/nowcoder/exam/oj/huawei/HJ025DataClassificationProcessing.java) | [文章](https://developer.huawei.com/consumer/cn/blog/topic/03960247373750004) 
+HJ26	字符串排序 | [HJ026StringSort](/src/com/waylau/nowcoder/exam/oj/huawei/HJ026StringSort.java) | [文章](https://developer.huawei.com/consumer/cn/blog/topic/03961104367000009) 
+HJ27	查找兄弟单词 | [HJ027FindBrotherWords](/src/com/waylau/nowcoder/exam/oj/huawei/HJ027FindBrotherWords.java) | [文章](https://developer.huawei.com/consumer/cn/blog/topic/03961104945430010) 
+HJ28	素数伴侣 | [HJ028PrimeCompanion](/src/com/waylau/nowcoder/exam/oj/huawei/HJ028PrimeCompanion.java) | [文章](https://developer.huawei.com/consumer/cn/forum/topic/0201961563027980063?fid=23) 
+HJ29	字符串加解密 | [HJ029CharacterStringEncryptionAndDecryption](/src/com/waylau/nowcoder/exam/oj/huawei/HJ029CharacterStringEncryptionAndDecryption.java) | [文章](https://developer.huawei.com/consumer/cn/forum/topic/0201961564040100064?fid=23) 
+HJ30	字符串合并处理 | | [HJ029CharacterStringEncryptionAndDecryption](/src/com/waylau/nowcoder/exam/oj/huawei/HJ029CharacterStringEncryptionAndDecryption.java) | [文章](https://developer.huawei.com/consumer/cn/forum/topic/0201961564886470065?fid=23) 
 HJ31	单词倒排 | | 
 HJ32	密码截取 | | 
 HJ33	整数与IP地址间的转换 | | 
