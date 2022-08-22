@@ -32,20 +32,20 @@ HJ26	字符串排序 | [HJ026StringSort](/src/com/waylau/nowcoder/exam/oj/huawei
 HJ27	查找兄弟单词 | [HJ027FindBrotherWords](/src/com/waylau/nowcoder/exam/oj/huawei/HJ027FindBrotherWords.java) | [文章](https://developer.huawei.com/consumer/cn/blog/topic/03961104945430010) 
 HJ28	素数伴侣 | [HJ028PrimeCompanion](/src/com/waylau/nowcoder/exam/oj/huawei/HJ028PrimeCompanion.java) | [文章](https://developer.huawei.com/consumer/cn/forum/topic/0201961563027980063?fid=23) 
 HJ29	字符串加解密 | [HJ029CharacterStringEncryptionAndDecryption](/src/com/waylau/nowcoder/exam/oj/huawei/HJ029CharacterStringEncryptionAndDecryption.java) | [文章](https://developer.huawei.com/consumer/cn/forum/topic/0201961564040100064?fid=23) 
-HJ30	字符串合并处理 | | [HJ029CharacterStringEncryptionAndDecryption](/src/com/waylau/nowcoder/exam/oj/huawei/HJ029CharacterStringEncryptionAndDecryption.java) | [文章](https://developer.huawei.com/consumer/cn/forum/topic/0201961564886470065?fid=23) 
-HJ31	单词倒排 | | 
-HJ32	密码截取 | | 
-HJ33	整数与IP地址间的转换 | | 
-HJ34	图片整理 | | 
-HJ35	蛇形矩阵 | | 
-HJ36	字符串加密 | | 
-HJ37	统计每个月兔子的总数 | | 
-HJ38	求小球落地5次后所经历的路程和第5次反弹的高度 | | 
-HJ39	判断两个IP是否属于同一子网 | | 
-HJ40	统计字符 | | 
-HJ41	称砝码 | | 
-HJ42	学英语 | | 
-HJ43	迷宫问题 | | 
+HJ30	字符串合并处理 | [HJ030CharacterStringCombination](/src/com/waylau/nowcoder/exam/oj/huawei/HJ030CharacterStringCombination.java) | [文章](https://developer.huawei.com/consumer/cn/forum/topic/0201961564886470065?fid=23) 
+HJ31	单词倒排 | [HJ031WordInversion](/src/com/waylau/nowcoder/exam/oj/huawei/HJ031WordInversion.java) | [文章](https://developer.huawei.com/consumer/cn/forum/topic/0202961565357580058?fid=23) 
+HJ32	密码截取 | [HJ032PasswordIntercept](/src/com/waylau/nowcoder/exam/oj/huawei/HJ032PasswordIntercept.java) | [文章](https://developer.huawei.com/consumer/cn/forum/topic/0202961565688230060?fid=23) 
+HJ33	整数与IP地址间的转换 | [HJ033ConversionBetweenIntegerAndIp](/src/com/waylau/nowcoder/exam/oj/huawei/HJ033ConversionBetweenIntegerAndIp.java) | [文章](https://developer.huawei.com/consumer/cn/forum/topic/0202961565967760061?fid=23) 
+HJ34	图片整理 |[HJ034PhotoFinishing](/src/com/waylau/nowcoder/exam/oj/huawei/HJ034PhotoFinishing.java) | [文章](https://developer.huawei.com/consumer/cn/forum/topic/0202962448032910093?fid=23) 
+HJ35	蛇形矩阵 | [HJ035SerpentineMatrix](/src/com/waylau/nowcoder/exam/oj/huawei/HJ035SerpentineMatrix.java) | [文章](https://developer.huawei.com/consumer/cn/forum/topic/0201962448825740090?fid=23) 
+HJ36	字符串加密 | [HJ036StringEncryption](/src/com/waylau/nowcoder/exam/oj/huawei/HJ036StringEncryption.java) | [文章](https://developer.huawei.com/consumer/cn/forum/topic/0202962449147710094?fid=23) 
+HJ37	统计每个月兔子的总数 | [HJ037CountTheTotalNumberOfRabbitsEachMonth](/src/com/waylau/nowcoder/exam/oj/huawei/HJ037CountTheTotalNumberOfRabbitsEachMonth.java) | [文章](https://developer.huawei.com/consumer/cn/forum/topic/0201962449375820091?fid=23) 
+HJ38	求小球落地5次后所经历的路程和第5次反弹的高度 | [HJ038ForTheDistanceExperiencedByTheBall](/src/com/waylau/nowcoder/exam/oj/huawei/HJ038ForTheDistanceExperiencedByTheBall.java) | [文章](https://developer.huawei.com/consumer/cn/forum/topic/0202962449636360095?fid=23) 
+HJ39	判断两个IP是否属于同一子网 | [HJ039CheckWhetherTwoIpAddressesBelongToTheSameSubnet](/src/com/waylau/nowcoder/exam/oj/huawei/HJ039CheckWhetherTwoIpAddressesBelongToTheSameSubnet.java) | [文章](https://developer.huawei.com/consumer/cn/forum/topic/0202962449864290096?fid=23) 
+HJ40	统计字符 | [HJ040CharacterStatistics](/src/com/waylau/nowcoder/exam/oj/huawei/HJ040CharacterStatistics.java) | [文章](https://developer.huawei.com/consumer/cn/forum/topic/0201962449375820091?fid=23) 
+HJ41	称砝码 | [HJ41WeighingWeight](/src/com/waylau/nowcoder/exam/oj/huawei/HJ41WeighingWeight.java) | [文章](https://developer.huawei.com/consumer/cn/forum/topic/0202962481336760098?fid=23) 
+HJ42	学英语 | [HJ042LearnEnglish](/src/com/waylau/nowcoder/exam/oj/huawei/HJ042LearnEnglish.java) | [文章](https://developer.huawei.com/consumer/cn/forum/topic/0202963001678560114?fid=23) 
+HJ43	迷宫问题 | [HJ43MazeProblem](/src/com/waylau/nowcoder/exam/oj/huawei/HJ43MazeProblem.java) | [文章](https://developer.huawei.com/consumer/cn/forum/topic/0202965704732140151?fid=23) 
 HJ44	Sudoku | | 
 HJ45	名字的漂亮度 | | 
 HJ46	截取字符串 | | 
