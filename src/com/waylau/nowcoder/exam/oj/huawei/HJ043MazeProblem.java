@@ -22,7 +22,7 @@ import java.util.Stack;
  * @author <a href="">Way Lau</a>
  * @since 2022-08-22
  */
-public class HJ43MazeProblem {
+public class HJ043MazeProblem {
  
     public static void main(String[] args) {
         // 输入

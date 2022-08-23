@@ -45,11 +45,11 @@ HJ39	判断两个IP是否属于同一子网 | [HJ039CheckWhetherTwoIpAddressesBe
 HJ40	统计字符 | [HJ040CharacterStatistics](/src/com/waylau/nowcoder/exam/oj/huawei/HJ040CharacterStatistics.java) | [文章](https://developer.huawei.com/consumer/cn/forum/topic/0201962449375820091?fid=23) 
 HJ41	称砝码 | [HJ41WeighingWeight](/src/com/waylau/nowcoder/exam/oj/huawei/HJ41WeighingWeight.java) | [文章](https://developer.huawei.com/consumer/cn/forum/topic/0202962481336760098?fid=23) 
 HJ42	学英语 | [HJ042LearnEnglish](/src/com/waylau/nowcoder/exam/oj/huawei/HJ042LearnEnglish.java) | [文章](https://developer.huawei.com/consumer/cn/forum/topic/0202963001678560114?fid=23) 
-HJ43	迷宫问题 | [HJ43MazeProblem](/src/com/waylau/nowcoder/exam/oj/huawei/HJ43MazeProblem.java) | [文章](https://developer.huawei.com/consumer/cn/forum/topic/0202965704732140151?fid=23) 
-HJ44	Sudoku | | 
-HJ45	名字的漂亮度 | | 
-HJ46	截取字符串 | | 
-HJ48	从单向链表中删除指定值的节点 | | 
+HJ43	迷宫问题 | [HJ043MazeProblem](/src/com/waylau/nowcoder/exam/oj/huawei/HJ043MazeProblem.java) | [文章](https://developer.huawei.com/consumer/cn/forum/topic/0202965704732140151?fid=23) 
+HJ44	Sudoku | [HJ044Sudoku](/src/com/waylau/nowcoder/exam/oj/huawei/HJ044Sudoku.java) | [文章](https://developer.huawei.com/consumer/cn/forum/topic/0202966587559640178?fid=23)  
+HJ45	名字的漂亮度 | [HJ045TheBeautyOfTheName](/src/com/waylau/nowcoder/exam/oj/huawei/HJ045TheBeautyOfTheName.java) | [文章](https://developer.huawei.com/consumer/cn/forum/topic/0202965704732140151?fid=23) 
+HJ46	截取字符串 | [HJ046InterceptString](/src/com/waylau/nowcoder/exam/oj/huawei/HJ046InterceptString.java) | [文章](https://www.nowcoder.com/discuss/391715118583750656)
+HJ48	从单向链表中删除指定值的节点 |  [HJ048DeleteTheNodeFromTheSinglyLinkedList](/src/com/waylau/nowcoder/exam/oj/huawei/HJ048DeleteTheNodeFromTheSinglyLinkedList.java) | [文章](https://www.nowcoder.com/discuss/391737714800963584) 
 HJ50	四则运算 | | 
 HJ51	输出单向链表中倒数第k个结点 | | 
 HJ52	计算字符串的编辑距离 | | 
