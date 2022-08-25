@@ -50,7 +50,7 @@ HJ44	Sudoku | [HJ044Sudoku](/src/com/waylau/nowcoder/exam/oj/huawei/HJ044Sudoku.
 HJ45	名字的漂亮度 | [HJ045TheBeautyOfTheName](/src/com/waylau/nowcoder/exam/oj/huawei/HJ045TheBeautyOfTheName.java) | [文章](https://developer.huawei.com/consumer/cn/forum/topic/0202965704732140151?fid=23) 
 HJ46	截取字符串 | [HJ046InterceptString](/src/com/waylau/nowcoder/exam/oj/huawei/HJ046InterceptString.java) | [文章](https://www.nowcoder.com/discuss/391715118583750656)
 HJ48	从单向链表中删除指定值的节点 |  [HJ048DeleteTheNodeFromTheSinglyLinkedList](/src/com/waylau/nowcoder/exam/oj/huawei/HJ048DeleteTheNodeFromTheSinglyLinkedList.java) | [文章](https://www.nowcoder.com/discuss/391737714800963584) 
-HJ50	四则运算 | | 
+HJ50	四则运算 | [HJ050FourArithmeticOperations](/src/com/waylau/nowcoder/exam/oj/huawei/HJ050FourArithmeticOperations.java) | [文章](https://developer.huawei.com/consumer/cn/blog/topic/03967446457900035) 
 HJ51	输出单向链表中倒数第k个结点 | | 
 HJ52	计算字符串的编辑距离 | | 
 HJ53	杨辉三角的变形 | | 
