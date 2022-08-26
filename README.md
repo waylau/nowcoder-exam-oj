@@ -51,16 +51,16 @@ HJ45	名字的漂亮度 | [HJ045TheBeautyOfTheName](/src/com/waylau/nowcoder/exa
 HJ46	截取字符串 | [HJ046InterceptString](/src/com/waylau/nowcoder/exam/oj/huawei/HJ046InterceptString.java) | [文章](https://www.nowcoder.com/discuss/391715118583750656)
 HJ48	从单向链表中删除指定值的节点 |  [HJ048DeleteTheNodeFromTheSinglyLinkedList](/src/com/waylau/nowcoder/exam/oj/huawei/HJ048DeleteTheNodeFromTheSinglyLinkedList.java) | [文章](https://www.nowcoder.com/discuss/391737714800963584) 
 HJ50	四则运算 | [HJ050FourArithmeticOperations](/src/com/waylau/nowcoder/exam/oj/huawei/HJ050FourArithmeticOperations.java) | [文章](https://developer.huawei.com/consumer/cn/blog/topic/03967446457900035) 
-HJ51	输出单向链表中倒数第k个结点 | | 
-HJ52	计算字符串的编辑距离 | | 
-HJ53	杨辉三角的变形 | | 
-HJ54	表达式求值 | | 
-HJ55	挑7 | | 
-HJ56	完全数计算 | | 
-HJ57	高精度整数加法 | | 
-HJ58	输入n个整数，输出其中最小的k个 | | 
-HJ59	找出字符串中第一个只出现一次的字符 | | 
-HJ60	查找组成一个偶数最接近的两个素数 | | 
+HJ51	输出单向链表中倒数第k个结点 | [HJ051OutputTheKthToLastNodeInTheUnidirectionalLinkedList](/src/com/waylau/nowcoder/exam/oj/huawei/HJ051OutputTheKthToLastNodeInTheUnidirectionalLinkedList.java) | [文章](https://developer.huawei.com/consumer/cn/blog/topic/03967446457900035) 
+HJ52	计算字符串的编辑距离 | [HJ052LevenshteinDistance](/src/com/waylau/nowcoder/exam/oj/huawei/HJ052LevenshteinDistance.java) | [文章](https://developer.huawei.com/consumer/cn/forum/topic/0201968974461030038?fid=23) 
+HJ53	杨辉三角的变形 | [HJ053DeformationOfYanghuiTriangle](/src/com/waylau/nowcoder/exam/oj/huawei/HJ053DeformationOfYanghuiTriangle.java) 、[HJ053DeformationOfYanghuiTriangle2](/src/com/waylau/nowcoder/exam/oj/huawei/HJ053DeformationOfYanghuiTriangle2.java)| [文章](https://developer.huawei.com/consumer/cn/blog/topic/03969110110960052) 
+HJ54	表达式求值 | [HJ050FourArithmeticOperations](/src/com/waylau/nowcoder/exam/oj/huawei/HJ050FourArithmeticOperations.java) | [文章](https://developer.huawei.com/consumer/cn/forum/topic/0201969110884790039?fid=23) 
+HJ55	挑7 | [HJ055PickSeven](/src/com/waylau/nowcoder/exam/oj/huawei/HJ055PickSeven.java) | [文章](https://developer.huawei.com/consumer/cn/forum/topic/0202969111232730241?fid=23) 
+HJ56	完全数计算 | [HJ056PerfectNumber](/src/com/waylau/nowcoder/exam/oj/huawei/HJ056PerfectNumber.java) | [文章](https://developer.huawei.com/consumer/cn/forum/topic/0202969111474650242?fid=23) 
+HJ57	高精度整数加法 | [HJ057HighPrecisionIntegerAddition](/src/com/waylau/nowcoder/exam/oj/huawei/HJ057HighPrecisionIntegerAddition.java) | [文章](https://developer.huawei.com/consumer/cn/forum/topic/0201969160578930041?fid=23) 
+HJ58	输入n个整数，输出其中最小的k个 | 太简单了 | 
+HJ59	找出字符串中第一个只出现一次的字符 | 太简单了 | 
+HJ60	查找组成一个偶数最接近的两个素数 | [HJ060FindsTheTwoClosestPrimeNumberThatMakeUpEvenNumber](/src/com/waylau/nowcoder/exam/oj/huawei/HJ060FindsTheTwoClosestPrimeNumberThatMakeUpEvenNumber.java) | [文章](https://developer.huawei.com/consumer/cn/forum/topic/0202969186258850248?fid=23) 
 HJ61	放苹果 | | 
 HJ62	查找输入整数二进制中1的个数 | | 
 HJ63	DNA序列 | | 
