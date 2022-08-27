@@ -61,14 +61,14 @@ HJ57	高精度整数加法 | [HJ057HighPrecisionIntegerAddition](/src/com/waylau
 HJ58	输入n个整数，输出其中最小的k个 | 太简单了 | 
 HJ59	找出字符串中第一个只出现一次的字符 | 太简单了 | 
 HJ60	查找组成一个偶数最接近的两个素数 | [HJ060FindsTheTwoClosestPrimeNumberThatMakeUpEvenNumber](/src/com/waylau/nowcoder/exam/oj/huawei/HJ060FindsTheTwoClosestPrimeNumberThatMakeUpEvenNumber.java) | [文章](https://developer.huawei.com/consumer/cn/forum/topic/0202969186258850248?fid=23) 
-HJ61	放苹果 | | 
-HJ62	查找输入整数二进制中1的个数 | | 
-HJ63	DNA序列 | | 
-HJ64	MP3光标位置 | | 
-HJ65	查找两个字符串a,b中的最长公共子串 | | 
-HJ66	配置文件恢复 | | 
-HJ67	24点游戏算法 | | 
-HJ68	成绩排序 | | 
+HJ61	放苹果 | [HJ061PutApple](/src/com/waylau/nowcoder/exam/oj/huawei/HJ061PutApple.java) | [文章](https://developer.huawei.com/consumer/cn/forum/topic/0201969914468230051?fid=23) 
+HJ62	查找输入整数二进制中1的个数 | [HJ061PutApple](/src/com/waylau/nowcoder/exam/oj/huawei/HJ062FindTheNumberOfFirstTheInputIntegerBinary.java)、[HJ061PutApple](/src/com/waylau/nowcoder/exam/oj/huawei/HJ062FindTheNumberOfFirstTheInputIntegerBinary2.java) | 
+HJ63	DNA序列 | [HJ063DNASequence](/src/com/waylau/nowcoder/exam/oj/huawei/HJ063DNASequence.java) | [文章](https://developer.huawei.com/consumer/cn/forum/topic/0201969978087260053?fid=23) 
+HJ64	MP3光标位置 | [HJ064MP3CursorPosition](/src/com/waylau/nowcoder/exam/oj/huawei/HJ064MP3CursorPosition.java) | [文章](https://developer.huawei.com/consumer/cn/blog/topic/03970067194740045) 
+HJ65	查找两个字符串a,b中的最长公共子串 | [HJ065FindLongestCommonSubstringInTwoStrings](/src/com/waylau/nowcoder/exam/oj/huawei/HJ065FindLongestCommonSubstringInTwoStrings.java) | [文章](https://developer.huawei.com/consumer/cn/forum/topic/0201970095675440054?fid=23) 
+HJ66	配置文件恢复 | [HJ066ConfigurationFileRecovery](/src/com/waylau/nowcoder/exam/oj/huawei/HJ066ConfigurationFileRecovery.java) | [文章](https://developer.huawei.com/consumer/cn/forum/topic/0202970130954300256?fid=23) 
+HJ67	24点游戏算法 | [HJ067TwentyFourPointGameAlgorithm](/src/com/waylau/nowcoder/exam/oj/huawei/HJ067TwentyFourPointGameAlgorithm.java) | [文章](https://developer.huawei.com/consumer/cn/forum/topic/0202970229864290259?fid=23) 
+HJ68	成绩排序 | [HJ068ScoreSort](/src/com/waylau/nowcoder/exam/oj/huawei/HJ068ScoreSort.java) | [文章](https://developer.huawei.com/consumer/cn/forum/topic/0202970277812060260?fid=23) 
 HJ69	矩阵乘法 | | 
 HJ70	矩阵乘法计算量估算 | | 
 HJ71	字符串通配符 | | 
