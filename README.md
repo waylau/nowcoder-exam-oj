@@ -69,14 +69,14 @@ HJ65	查找两个字符串a,b中的最长公共子串 | [HJ065FindLongestCommonS
 HJ66	配置文件恢复 | [HJ066ConfigurationFileRecovery](/src/com/waylau/nowcoder/exam/oj/huawei/HJ066ConfigurationFileRecovery.java) | [文章](https://developer.huawei.com/consumer/cn/forum/topic/0202970130954300256?fid=23) 
 HJ67	24点游戏算法 | [HJ067TwentyFourPointGameAlgorithm](/src/com/waylau/nowcoder/exam/oj/huawei/HJ067TwentyFourPointGameAlgorithm.java) | [文章](https://developer.huawei.com/consumer/cn/forum/topic/0202970229864290259?fid=23) 
 HJ68	成绩排序 | [HJ068ScoreSort](/src/com/waylau/nowcoder/exam/oj/huawei/HJ068ScoreSort.java) | [文章](https://developer.huawei.com/consumer/cn/forum/topic/0202970277812060260?fid=23) 
-HJ69	矩阵乘法 | | 
-HJ70	矩阵乘法计算量估算 | | 
-HJ71	字符串通配符 | | 
-HJ72	百钱买百鸡问题 | | 
+HJ69	矩阵乘法 | [HJ069MatrixMultiplication](/src/com/waylau/nowcoder/exam/oj/huawei/HJ069MatrixMultiplication.java)  | 
+HJ70	矩阵乘法计算量估算 | [HJ070CalculationCostEstimationForMatrixMultiplication](/src/com/waylau/nowcoder/exam/oj/huawei/HJ070CalculationCostEstimationForMatrixMultiplication.java) | [文章](https://developer.huawei.com/consumer/cn/forum/topic/0202970889963760266?fid=23) 
+HJ71	字符串通配符 | [HJ071StringWildcard](/src/com/waylau/nowcoder/exam/oj/huawei/HJ071StringWildcard.java) | [文章](https://developer.huawei.com/consumer/cn/forum/topic/0201971068295500060?fid=23) 
+HJ72	百钱买百鸡问题 | [HJ072BuyingHundredChickensWithHundredDollars](/src/com/waylau/nowcoder/exam/oj/huawei/HJ072BuyingHundredChickensWithHundredDollars.java)| 
 HJ73	计算日期到天数转换 | | 
-HJ74	参数解析 | | 
-HJ75	公共子串计算 | | 
-HJ76	尼科彻斯定理 | | 
+HJ74	参数解析 | [HJ074ParameterAnalysis](/src/com/waylau/nowcoder/exam/oj/huawei/HJ074ParameterAnalysis.java)| 
+HJ75	公共子串计算 | [HJ075CommonSubstringCalculation](/src/com/waylau/nowcoder/exam/oj/huawei/HJ075CommonSubstringCalculation.java) | [文章](https://www.nowcoder.com/discuss/393551055399792640) 
+HJ76	尼科彻斯定理 | [HJ076NicochesTheorem](/src/com/waylau/nowcoder/exam/oj/huawei/HJ076NicochesTheorem.java) | 
 HJ77	火车进站 | | 
 HJ80	整型数组合并 | | 
 HJ81	字符串字符匹配 | | 

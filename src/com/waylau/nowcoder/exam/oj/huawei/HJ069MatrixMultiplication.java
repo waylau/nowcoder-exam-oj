@@ -14,7 +14,7 @@ import java.util.Scanner;
  * @since 1.0.0 2022年8月28日
  * @author <a href="https://waylau.com">Way Lau</a>
  */
-public class HJ69MatrixMultiplication {
+public class HJ069MatrixMultiplication {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         while (sc.hasNext()){
