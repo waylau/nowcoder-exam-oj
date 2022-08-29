@@ -79,21 +79,21 @@ HJ75	公共子串计算 | [HJ075CommonSubstringCalculation](/src/com/waylau/nowc
 HJ76	尼科彻斯定理 | [HJ076NicochesTheorem](/src/com/waylau/nowcoder/exam/oj/huawei/HJ076NicochesTheorem.java) | 
 HJ77	火车进站 | | 
 HJ80	整型数组合并 | | 
-HJ81	字符串字符匹配 | | 
-HJ82	将真分数分解为埃及分数 | | 
-HJ83	二维数组操作 | | 
-HJ84	统计大写字母个数 | | 
-HJ85	最长回文子串 | | 
-HJ86	求最大连续bit数 | | 
-HJ87	密码强度等级 | | 
-HJ88	扑克牌大小 | | 
+HJ81	字符串字符匹配 | [HJ081StringCharacterMatching](/src/com/waylau/nowcoder/exam/oj/huawei/HJ081StringCharacterMatching.java) | 
+HJ82	将真分数分解为埃及分数 | [HJ082DecomposeTrueFractionsIntoEgyptianFractions](/src/com/waylau/nowcoder/exam/oj/huawei/HJ082DecomposeTrueFractionsIntoEgyptianFractions.java) | 
+HJ83	二维数组操作 | 无难度，但拼体力| 
+HJ84	统计大写字母个数 |  [HJ084CountTheNumberOfCapitalLetters](/src/com/waylau/nowcoder/exam/oj/huawei/HJ084CountTheNumberOfCapitalLetters.java)  | 
+HJ85	最长回文子串 |  [HJ085LongestPalindromeSubstring](/src/com/waylau/nowcoder/exam/oj/huawei/HJ085LongestPalindromeSubstring.java) | [文章](https://developer.huawei.com/consumer/cn/forum/topic/0202971858902280282?fid=23) 
+HJ86	求最大连续bit数 |  [HJ086FindTheMaximumNumberOfConsecutiveBits](/src/com/waylau/nowcoder/exam/oj/huawei/HJ086FindTheMaximumNumberOfConsecutiveBits.java) | 
+HJ87	密码强度等级 | 无难度，但拼体力 | 
+HJ88	扑克牌大小 | [HJ088PlayingCardSize](/src/com/waylau/nowcoder/exam/oj/huawei/HJ088PlayingCardSize.java) | [文章](https://developer.huawei.com/consumer/cn/forum/topic/0202971911289010285?fid=23) 
 HJ89	24点运算 | | 
 HJ90	合法IP | | 
-HJ91	走方格的方案数 | | 
+HJ91	走方格的方案数 | [HJ091NumberOfPlansToMoveTheGrid](/src/com/waylau/nowcoder/exam/oj/huawei/HJ091NumberOfPlansToMoveTheGrid.java) | 
 HJ92	在字符串中找出连续最长的数字串 | | 
-HJ93	数组分组 | | 
+HJ93	数组分组 | [HJ093ArrayGrouping](/src/com/waylau/nowcoder/exam/oj/huawei/HJ093ArrayGrouping.java) | 
 HJ94	记票统计 | | 
-HJ95	人民币转换 | | 
+HJ95	人民币转换 | [HJ095RMBConversion](/src/com/waylau/nowcoder/exam/oj/huawei/HJ095RMBConversion.java) |  [文章](https://developer.huawei.com/consumer/cn/forum/topic/0201971961931650078?fid=23) 
 HJ96	表示数字 | | 
 HJ97	记负均正 | | 
 HJ98	自动售货系统 | | 
@@ -101,7 +101,7 @@ HJ99	自守数 | |
 HJ100	等差数列 | | 
 HJ101	输入整型数组和排序标识，对其元素按照升序或降序进行排序 | | 
 HJ102	字符统计 | | 
-HJ103	Redraiment的走法 | | 
+HJ103	Redraiment的走法 |[HJ103RedraimentWalk](/src/com/waylau/nowcoder/exam/oj/huawei/HJ103RedraimentWalk.java) | 
 HJ105	记负均正II | | 
 HJ106	字符逆序 | | 
 HJ107	求解立方根 | | 
