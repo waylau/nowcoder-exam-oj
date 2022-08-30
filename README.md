@@ -77,7 +77,7 @@ HJ73	计算日期到天数转换 | |
 HJ74	参数解析 | [HJ074ParameterAnalysis](/src/com/waylau/nowcoder/exam/oj/huawei/HJ074ParameterAnalysis.java)| 
 HJ75	公共子串计算 | [HJ075CommonSubstringCalculation](/src/com/waylau/nowcoder/exam/oj/huawei/HJ075CommonSubstringCalculation.java) | [文章](https://www.nowcoder.com/discuss/393551055399792640) 
 HJ76	尼科彻斯定理 | [HJ076NicochesTheorem](/src/com/waylau/nowcoder/exam/oj/huawei/HJ076NicochesTheorem.java) | 
-HJ77	火车进站 | | 
+HJ77	火车进站 | [HJ077TheTrainComesIn](/src/com/waylau/nowcoder/exam/oj/huawei/HJ077TheTrainComesIn.java) | [文章](https://developer.huawei.com/consumer/cn/forum/topic/0202972334954820290?fid=23)  
 HJ80	整型数组合并 | | 
 HJ81	字符串字符匹配 | [HJ081StringCharacterMatching](/src/com/waylau/nowcoder/exam/oj/huawei/HJ081StringCharacterMatching.java) | 
 HJ82	将真分数分解为埃及分数 | [HJ082DecomposeTrueFractionsIntoEgyptianFractions](/src/com/waylau/nowcoder/exam/oj/huawei/HJ082DecomposeTrueFractionsIntoEgyptianFractions.java) | 
