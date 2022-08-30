@@ -1,28 +1,30 @@
 # nowcoder-exam-oj
 nowcoder-exam-oj 牛客题霸-在线编程 题库题解
 
+## 华为机试
+
 题库 | 编程 | 题解 
 ---|---|---
 HJ1	字符串最后一个单词的长度 | [HJ001LengthOfTheLastWordInTheString](/src/com/waylau/nowcoder/exam/oj/huawei/HJ001LengthOfTheLastWordInTheString.java)、[HJ001LengthOfTheLastWordInTheString2](/src/com/waylau/nowcoder/exam/oj/huawei/HJ001LengthOfTheLastWordInTheString2.java) | [文章](https://developer.huawei.com/consumer/cn/blog/topic/03950984970640368) 
-HJ2	计算某字符出现次数 | | 
-HJ3	明明的随机数 | | 
-HJ4	字符串分隔 | | 
-HJ5	进制转换 | | 
-HJ6	质数因子 | | 
-HJ7	取近似值 | | 
-HJ8	合并表记录 | | 
-HJ9	提取不重复的整数 | | 
-HJ10	字符个数统计 | | 
-HJ11	数字颠倒 | | 
-HJ12	字符串反转 | | 
-HJ13	句子逆序 | | 
-HJ14	字符串排序 | | 
-HJ15	求int型正整数在内存中存储时1的个数 | | 
-HJ16	购物单 | | 
-HJ17	坐标移动 | | 
-HJ18	识别有效的IP地址和掩码并进行分类统计 | | 
-HJ19	简单错误记录 | | 
-HJ20	密码验证合格程序 | | 
+HJ2	计算某字符出现次数 | [HJ002CountsTheNumberOfCharacters](/src/com/waylau/nowcoder/exam/oj/huawei/HJ002CountsTheNumberOfCharacters.java) | [文章](https://www.nowcoder.com/discuss/385516884949561344) 
+HJ3	明明的随机数 | [HJ003RandomNumbers](/src/com/waylau/nowcoder/exam/oj/huawei/HJ003RandomNumbers.java)、[HJ003RandomNumbers2](/src/com/waylau/nowcoder/exam/oj/huawei/HJ003RandomNumbers2.java)| [文章](https://www.nowcoder.com/discuss/385534231932416000) 
+HJ4	字符串分隔 | [HJ004StringDelimited](/src/com/waylau/nowcoder/exam/oj/huawei/HJ004StringDelimited.java)| 
+HJ5	进制转换 | [HJ005BaseConversion](/src/com/waylau/nowcoder/exam/oj/huawei/HJ005BaseConversion.java)| [文章](https://www.nowcoder.com/discuss/385561960736153600) 
+HJ6	质数因子 | [HJ006PrimeFactor](/src/com/waylau/nowcoder/exam/oj/huawei/HJ006PrimeFactor.java)| [文章](https://www.nowcoder.com/discuss/385570426108354560)  
+HJ7	取近似值 | [HJ007Approximation](/src/com/waylau/nowcoder/exam/oj/huawei/HJ007Approximation.java)| [文章](https://www.nowcoder.com/discuss/385742337350139904)  
+HJ8	合并表记录 | [HJ008MergeTableRecords](/src/com/waylau/nowcoder/exam/oj/huawei/HJ008MergeTableRecords.java)| [文章](https://www.nowcoder.com/discuss/385801740262678528)  
+HJ9	提取不重复的整数 | [HJ009ExtractsNonRepeatingIntegers](/src/com/waylau/nowcoder/exam/oj/huawei/HJ009ExtractsNonRepeatingIntegers.java)| [文章](https://www.nowcoder.com/discuss/385809387770720256)  
+HJ10	字符个数统计 | [HJ010CharacterCountStatistics](/src/com/waylau/nowcoder/exam/oj/huawei/HJ010CharacterCountStatistics.java)| [文章](https://www.nowcoder.com/discuss/385814959563845632)  
+HJ11	数字颠倒 | [HJ011NumberReverseOrder](/src/com/waylau/nowcoder/exam/oj/huawei/HJ011NumberReverseOrder.java)| [文章](https://www.nowcoder.com/discuss/385818821309853696)  
+HJ12	字符串反转 | [HJ012StringReversal](/src/com/waylau/nowcoder/exam/oj/huawei/HJ012StringReversal.java)| [文章](https://www.nowcoder.com/discuss/385826626154586112)  
+HJ13	句子逆序 | [HJ013SentenceReverseOrder](/src/com/waylau/nowcoder/exam/oj/huawei/HJ013SentenceReverseOrder.java)| [文章](https://www.nowcoder.com/discuss/385834034344079360)   
+HJ14	字符串排序 | [HJ014StringSorting](/src/com/waylau/nowcoder/exam/oj/huawei/HJ014StringSorting.java)| [文章](https://www.nowcoder.com/discuss/385841928288444416)   
+HJ15	求int型正整数在内存中存储时1的个数 | [HJ015FindTheNumberOfOneWhenIntegersStoredInMemory](/src/com/waylau/nowcoder/exam/oj/huawei/HJ015FindTheNumberOfOneWhenIntegersStoredInMemory.java)| [文章](https://www.nowcoder.com/discuss/385848508824252416)   
+HJ16	购物单 | 求int型正整数在内存中存储时1的个数 | [HJ016ShoppingList](/src/com/waylau/nowcoder/exam/oj/huawei/HJ016ShoppingList.java)| [文章](https://developer.huawei.com/consumer/cn/blog/topic/03957085907630418) 
+HJ17	坐标移动 |  [HJ017CoordinateMovement](/src/com/waylau/nowcoder/exam/oj/huawei/HJ017CoordinateMovement.java)| [文章](https://www.nowcoder.com/discuss/388105161632227328) 
+HJ18	识别有效的IP地址和掩码并进行分类统计 |[HJ018IdentifiesValidIpAddressesAndMasks](/src/com/waylau/nowcoder/exam/oj/huawei/HJ018IdentifiesValidIpAddressesAndMasks.java)| [文章](https://www.nowcoder.com/discuss/388105161632227328) 
+HJ19	简单错误记录 | [HJ019SimpleErrorRecord](/src/com/waylau/nowcoder/exam/oj/huawei/HJ019SimpleErrorRecord.java)| [文章](https://www.nowcoder.com/discuss/388355415354994688) 
+HJ20	密码验证合格程序 | [HJ020PasswordVerificationQualification](/src/com/waylau/nowcoder/exam/oj/huawei/HJ020PasswordVerificationQualification.java)| [文章](https://www.nowcoder.com/discuss/388488274967375872) 
 HJ21	简单密码 |[HJ021SimplePassword](/src/com/waylau/nowcoder/exam/oj/huawei/HJ021SimplePassword.java) | [文章](https://developer.huawei.com/consumer/cn/blog/topic/03959676183300422) 
 HJ22	汽水瓶 | [HJ022SodaBottle](/src/com/waylau/nowcoder/exam/oj/huawei/HJ022SodaBottle.java) | [文章](https://developer.huawei.com/consumer/cn/blog/topic/03959679097380398) 
 HJ23	删除字符串中出现次数最少的字符 | [HJ023DeleteLeastOccurringCharacterFromString](/src/com/waylau/nowcoder/exam/oj/huawei/HJ023DeleteLeastOccurringCharacterFromString.java) | [文章](https://developer.huawei.com/consumer/cn/blog/topic/03959679688380423) 
@@ -104,7 +106,7 @@ HJ102	字符统计 | |
 HJ103	Redraiment的走法 |[HJ103RedraimentWalk](/src/com/waylau/nowcoder/exam/oj/huawei/HJ103RedraimentWalk.java) | 
 HJ105	记负均正II | | 
 HJ106	字符逆序 | | 
-HJ107	求解立方根 | | 
+HJ107	求解立方根 | [HJ107SolveTheCubeRoot](/src/com/waylau/nowcoder/exam/oj/huawei/HJ107SolveTheCubeRoot.java) | 
 HJ108	求最小公倍数 | | 
 	
 
