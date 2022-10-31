@@ -117,7 +117,9 @@ HJ108	求最小公倍数 | |
 NC27 集合的所有子集（一） | [NC027AllSubsetsOfTheSet](/src/com/waylau/nowcoder/exam/oj/nowcoder/NC027AllSubsetsOfTheSet.java) |  [文章](https://developer.huawei.com/consumer/cn/forum/topic/0203102621699052203?fid=23)
 NC54 三数之和 | [NC054SumOfThreeNumbers](/src/com/waylau/nowcoder/exam/oj/nowcoder/NC054SumOfThreeNumbers.java) |  [文章](https://developer.huawei.com/consumer/cn/forum/topic/0204102636376530221?fid=23)
 NC61 两数之和 | [NC061TheSumOfTwoNumbersInArray](/src/com/waylau/nowcoder/exam/oj/nowcoder/NC061TheSumOfTwoNumbersInArray.java) |  [文章](https://developer.huawei.com/consumer/cn/forum/topic/0203102339152293150?fid=23)
+* [NC170 最长不含重复字符的子字符串| [NC017TheLongestSubstringWithoutRepeatingCharacters](/src/com/waylau/nowcoder/exam/oj/nowcoder/NC017TheLongestSubstringWithoutRepeatingCharacters.java) |  [文章](https://developer.huawei.com/consumer/cn/forum/topic/0203102647725528207?fid=23)
 NC270 把数组排成最小的数 | [NC270ArrangeAnArrayToTheSmallestNumber](/src/com/waylau/nowcoder/exam/oj/nowcoder/NC270ArrangeAnArrayToTheSmallestNumber.java) |  [文章](https://developer.huawei.com/consumer/cn/forum/topic/0204102597329763202?fid=23)
+
 
 ## 剑指offer
 
