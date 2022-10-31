@@ -110,4 +110,19 @@ HJ107	求解立方根 | [HJ107SolveTheCubeRoot](/src/com/waylau/nowcoder/exam/oj
 HJ108	求最小公倍数 | | 
 	
 
+## 牛客题霸
+
+题库 | 编程 | 题解 
+---|---|---
+NC27 集合的所有子集（一） | [NC027AllSubsetsOfTheSet](/src/com/waylau/nowcoder/exam/oj/nowcoder/NC027AllSubsetsOfTheSet.java) |  [文章](https://developer.huawei.com/consumer/cn/forum/topic/0203102621699052203?fid=23)
+NC54 三数之和 | [NC054SumOfThreeNumbers](/src/com/waylau/nowcoder/exam/oj/nowcoder/NC054SumOfThreeNumbers.java) |  [文章](https://developer.huawei.com/consumer/cn/forum/topic/0204102636376530221?fid=23)
+NC61 两数之和 | [NC061TheSumOfTwoNumbersInArray](/src/com/waylau/nowcoder/exam/oj/nowcoder/NC061TheSumOfTwoNumbersInArray.java) |  [文章](https://developer.huawei.com/consumer/cn/forum/topic/0203102339152293150?fid=23)
+NC270 把数组排成最小的数 | [NC270ArrangeAnArrayToTheSmallestNumber](/src/com/waylau/nowcoder/exam/oj/nowcoder/NC270ArrangeAnArrayToTheSmallestNumber.java) |  [文章](https://developer.huawei.com/consumer/cn/forum/topic/0204102597329763202?fid=23)
+
+## 剑指offer
+
+题库 | 编程 | 题解 
+---|---|---
+JZ42 连续子数组的最大和 | [JZ042FindGreatestSumOfSubArray](/src/com/waylau/nowcoder/exam/oj/nowcoder/JZ042FindGreatestSumOfSubArray.java) |  [文章](https://developer.huawei.com/consumer/cn/forum/topic/0204102352622179160?fid=23)
+
 
