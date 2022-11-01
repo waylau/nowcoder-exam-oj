@@ -115,9 +115,13 @@ HJ108	求最小公倍数 | |
 题库 | 编程 | 题解 
 ---|---|---
 NC27 集合的所有子集（一） | [NC027AllSubsetsOfTheSet](/src/com/waylau/nowcoder/exam/oj/nowcoder/NC027AllSubsetsOfTheSet.java) |  [文章](https://developer.huawei.com/consumer/cn/forum/topic/0203102621699052203?fid=23)
-NC54 三数之和 | [NC054SumOfThreeNumbers](/src/com/waylau/nowcoder/exam/oj/nowcoder/NC054SumOfThreeNumbers.java) |  [文章](https://developer.huawei.com/consumer/cn/forum/topic/0204102636376530221?fid=23)
+NC41 最长无重复子数组 | [NC041LongestUnduplicatedSubarray](/src/com/waylau/nowcoder/exam/oj/nowcoder/NC041LongestUnduplicatedSubarray.java) |  [文章](https://developer.huawei.com/consumer/cn/forum/topic/0204102678513542223?fid=23)
+NC44 通配符匹配 | [NC044WildcardMatching](/src/com/waylau/nowcoder/exam/oj/nowcoder/NC044WildcardMatching.java) |  [文章](https://developer.huawei.com/consumer/cn/blog/topic/03102698255507029)
+NC54 三数之和 | [NC054SumOfThreeNumbers](/src/com/waylau/nowcoder/exam/oj/nowcoder/NC054SumOfThreeNumbers.java) |  [文章](https://developer.huawei.com/consumer/cn/blog/topic/03102698255507029)
 NC61 两数之和 | [NC061TheSumOfTwoNumbersInArray](/src/com/waylau/nowcoder/exam/oj/nowcoder/NC061TheSumOfTwoNumbersInArray.java) |  [文章](https://developer.huawei.com/consumer/cn/forum/topic/0203102339152293150?fid=23)
-* [NC170 最长不含重复字符的子字符串| [NC017TheLongestSubstringWithoutRepeatingCharacters](/src/com/waylau/nowcoder/exam/oj/nowcoder/NC017TheLongestSubstringWithoutRepeatingCharacters.java) |  [文章](https://developer.huawei.com/consumer/cn/forum/topic/0203102647725528207?fid=23)
+NC133 链表的奇偶重排 | [NC133OddAndEvenRearrangementOfLinkedList](/src/com/waylau/nowcoder/exam/oj/nowcoder/NC133OddAndEvenRearrangementOfLinkedList.java) |  [文章](https://developer.huawei.com/consumer/cn/forum/topic/0203102681137882214?fid=23)
+NC170 最长不含重复字符的子字符串 | [NC170TheLongestSubstringWithoutRepeatingCharacters](/src/com/waylau/nowcoder/exam/oj/nowcoder/NC170TheLongestSubstringWithoutRepeatingCharacters.java) |  [文章](https://developer.huawei.com/consumer/cn/forum/topic/0203102647725528207?fid=23)
+NC223 从中序与后续遍历序列构造二叉树 | [NC223ConstructingBinaryTreesFromMiddleOrderandSubsequentErgodicSequences](/src/com/waylau/nowcoder/exam/oj/nowcoder/NC223ConstructingBinaryTreesFromMiddleOrderandSubsequentErgodicSequences.java) |  [文章](hhttps://developer.huawei.com/consumer/cn/blog/topic/03102696298575027)
 NC270 把数组排成最小的数 | [NC270ArrangeAnArrayToTheSmallestNumber](/src/com/waylau/nowcoder/exam/oj/nowcoder/NC270ArrangeAnArrayToTheSmallestNumber.java) |  [文章](https://developer.huawei.com/consumer/cn/forum/topic/0204102597329763202?fid=23)
 
 

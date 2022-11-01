@@ -12,7 +12,7 @@ import java.util.HashMap;
  * @since 1.0.0 2022年10月31日
  * @author <a href="https://waylau.com">Way Lau</a>
  */
-public class NC017TheLongestSubstringWithoutRepeatingCharacters {
+public class NC170TheLongestSubstringWithoutRepeatingCharacters {
 
 	public static void main(String[] args) {
 		System.out.println(
