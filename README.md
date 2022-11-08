@@ -129,12 +129,16 @@ NC190 字符串的全部子序列 | [NC190AllSubsequencesOfAString](/src/com/way
 NC223 从中序与后续遍历序列构造二叉树 | [NC223ConstructingBinaryTreesFromMiddleOrderandSubsequentErgodicSequences](/src/com/waylau/nowcoder/exam/oj/nowcoder/NC223ConstructingBinaryTreesFromMiddleOrderandSubsequentErgodicSequences.java) |  [文章](hhttps://developer.huawei.com/consumer/cn/blog/topic/03102696298575027)
 NC228 判断子序列 | [NC228JudgmentSubsequence](/src/com/waylau/nowcoder/exam/oj/nowcoder/NC228JudgmentSubsequence.java)、 [NC228JudgmentSubsequence2](/src/com/waylau/nowcoder/exam/oj/nowcoder/NC228JudgmentSubsequence2.java) |  [文章](https://developer.huawei.com/consumer/cn/blog/topic/03102876056086005)
 NC270 把数组排成最小的数 | [NC270ArrangeAnArrayToTheSmallestNumber](/src/com/waylau/nowcoder/exam/oj/nowcoder/NC270ArrangeAnArrayToTheSmallestNumber.java) |  [文章](https://developer.huawei.com/consumer/cn/forum/topic/0204102597329763202?fid=23)
+NC301 最大数字交换 | [NC301MaximumSwap](/src/com/waylau/nowcoder/exam/oj/nowcoder/NC301MaximumSwap.java) |  [文章](https://developer.huawei.com/consumer/cn/blog/topic/03102941443529007)
+NC302 环形数组的连续子数组最大和 | [NC302MaxSubarraySumCircular](/src/com/waylau/nowcoder/exam/oj/nowcoder/NC302MaxSubarraySumCircular.java) |  [文章](https://developer.huawei.com/consumer/cn/blog/topic/03102954812943008)
 
 
 ## 剑指offer
 
 题库 | 编程 | 题解 
 ---|---|---
-JZ42 连续子数组的最大和 | [JZ042FindGreatestSumOfSubArray](/src/com/waylau/nowcoder/exam/oj/nowcoder/JZ042FindGreatestSumOfSubArray.java) |  [文章](https://developer.huawei.com/consumer/cn/forum/topic/0204102352622179160?fid=23)
+JZ36 二叉搜索树与双向链表 | [JZ036BinarySearchTreeAndBidirectionalLinkedList](/src/com/waylau/nowcoder/exam/oj/jianzhi/JZ036BinarySearchTreeAndBidirectionalLinkedList.java) |  [文章](https://developer.huawei.com/consumer/cn/blog/topic/03103221491089011)
+JZ38 字符串的排列 | [JZ038StringPermutation](/src/com/waylau/nowcoder/exam/oj/jianzhi/JZ038StringPermutation.java) |  [文章](https://developer.huawei.com/consumer/cn/forum/topic/0204102352622179160?fid=23)
+JZ42 连续子数组的最大和 | [JZ042FindGreatestSumOfSubArray](/src/com/waylau/nowcoder/exam/oj/jianzhi/JZ042FindGreatestSumOfSubArray.java) |  [文章](https://developer.huawei.com/consumer/cn/forum/topic/0204102352622179160?fid=23)
 
 
