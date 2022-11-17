@@ -119,6 +119,7 @@ NC39 N皇后问题 | [NC039NQueenProblem](/src/com/waylau/nowcoder/exam/oj/nowco
 NC41 最长无重复子数组 | [NC041LongestUnduplicatedSubarray](/src/com/waylau/nowcoder/exam/oj/nowcoder/NC041LongestUnduplicatedSubarray.java) |  [文章](https://developer.huawei.com/consumer/cn/forum/topic/0204102678513542223?fid=23)
 NC44 通配符匹配 | [NC044WildcardMatching](/src/com/waylau/nowcoder/exam/oj/nowcoder/NC044WildcardMatching.java) |  [文章](https://developer.huawei.com/consumer/cn/blog/topic/03102698255507029)
 NC46 加起来和为目标值的组合(二) | [NC046TheSumIsTheCombinationOfTheTargetValues](/src/com/waylau/nowcoder/exam/oj/nowcoder/NC046TheSumIsTheCombinationOfTheTargetValues.java) |  [文章](https://developer.huawei.com/consumer/cn/blog/topic/03102871995044005)
+NC52 有效括号序列 | [NC052ValidBracketSequence](/src/com/waylau/nowcoder/exam/oj/nowcoder/NC052ValidBracketSequence.java) |  [文章](https://developer.huawei.com/consumer/cn/forum/topic/0201104091461031275)
 NC54 三数之和 | [NC054SumOfThreeNumbers](/src/com/waylau/nowcoder/exam/oj/nowcoder/NC054SumOfThreeNumbers.java) |  [文章](https://developer.huawei.com/consumer/cn/blog/topic/03102698255507029)
 NC61 两数之和 | [NC061TheSumOfTwoNumbersInArray](/src/com/waylau/nowcoder/exam/oj/nowcoder/NC061TheSumOfTwoNumbersInArray.java) |  [文章](https://developer.huawei.com/consumer/cn/forum/topic/0203102339152293150?fid=23)
 NC92 最长的公共子序列（二） | [NC092LongestCommonSubsequence](/src/com/waylau/nowcoder/exam/oj/nowcoder/NC092LongestCommonSubsequence.java) |  [文章](https://developer.huawei.com/consumer/cn/blog/topic/03102780476537034)
@@ -137,6 +138,7 @@ NC302 环形数组的连续子数组最大和 | [NC302MaxSubarraySumCircular](/s
 
 题库 | 编程 | 题解 
 ---|---|---
+JZ31 栈的压入、弹出序列 | [JZ031StackPushInAndPopOutSequences](/src/com/waylau/nowcoder/exam/oj/jianzhi/JZ031StackPushInAndPopOutSequences.java) |  [文章](https://developer.huawei.com/consumer/cn/forum/topic/0201104088717445272)
 JZ36 二叉搜索树与双向链表 | [JZ036BinarySearchTreeAndBidirectionalLinkedList](/src/com/waylau/nowcoder/exam/oj/jianzhi/JZ036BinarySearchTreeAndBidirectionalLinkedList.java) |  [文章](https://developer.huawei.com/consumer/cn/blog/topic/03103221491089011)
 JZ38 字符串的排列 | [JZ038StringPermutation](/src/com/waylau/nowcoder/exam/oj/jianzhi/JZ038StringPermutation.java) |  [文章](https://developer.huawei.com/consumer/cn/forum/topic/0204102352622179160?fid=23)
 JZ42 连续子数组的最大和 | [JZ042FindGreatestSumOfSubArray](/src/com/waylau/nowcoder/exam/oj/jianzhi/JZ042FindGreatestSumOfSubArray.java) |  [文章](https://developer.huawei.com/consumer/cn/forum/topic/0204102352622179160?fid=23)
