@@ -115,6 +115,7 @@ HJ108	求最小公倍数 | |
 题库 | 编程 | 题解 
 ---|---|---
 NC27 集合的所有子集（一） | [NC027AllSubsetsOfTheSet](/src/com/waylau/nowcoder/exam/oj/nowcoder/NC027AllSubsetsOfTheSet.java) |  [文章](https://developer.huawei.com/consumer/cn/forum/topic/0203102621699052203?fid=23)
+NC36 在两个长度相等的排序数组中找到上中位 | [NC036FindUpperMedianInTwoSortedArraysOfEqualLength](/src/com/waylau/nowcoder/exam/oj/nowcoder/NC036FindUpperMedianInTwoSortedArraysOfEqualLength.java) |  [文章](https://developer.huawei.com/consumer/cn/forum/topic/0202104260380514297)
 NC39 N皇后问题 | [NC039NQueenProblem](/src/com/waylau/nowcoder/exam/oj/nowcoder/NC039NQueenProblem.java) |  [文章](https://developer.huawei.com/consumer/cn/blog/topic/03102856737594003)
 NC41 最长无重复子数组 | [NC041LongestUnduplicatedSubarray](/src/com/waylau/nowcoder/exam/oj/nowcoder/NC041LongestUnduplicatedSubarray.java) |  [文章](https://developer.huawei.com/consumer/cn/forum/topic/0204102678513542223?fid=23)
 NC44 通配符匹配 | [NC044WildcardMatching](/src/com/waylau/nowcoder/exam/oj/nowcoder/NC044WildcardMatching.java) |  [文章](https://developer.huawei.com/consumer/cn/blog/topic/03102698255507029)
