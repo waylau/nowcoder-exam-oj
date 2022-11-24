@@ -143,7 +143,7 @@ NC302 环形数组的连续子数组最大和 | [NC302MaxSubarraySumCircular](/s
 ---|---|---
 JZ31 栈的压入、弹出序列 | [JZ031StackPushInAndPopOutSequences](/src/com/waylau/nowcoder/exam/oj/jianzhi/JZ031StackPushInAndPopOutSequences.java) |  [文章](https://developer.huawei.com/consumer/cn/forum/topic/0201104088717445272)
 JZ36 二叉搜索树与双向链表 | [JZ036BinarySearchTreeAndBidirectionalLinkedList](/src/com/waylau/nowcoder/exam/oj/jianzhi/JZ036BinarySearchTreeAndBidirectionalLinkedList.java) |  [文章](https://developer.huawei.com/consumer/cn/blog/topic/03103221491089011)
-JZ38 字符串的排列 | [JZ038StringPermutation](/src/com/waylau/nowcoder/exam/oj/jianzhi/JZ038StringPermutation.java) |  [文章](https://developer.huawei.com/consumer/cn/forum/topic/0204102352622179160?fid=23)
+JZ38 字符串的排列 | [JZ038StringPermutation](/src/com/waylau/nowcoder/exam/oj/jianzhi/JZ038StringPermutation.java) |  [文章](https://developer.huawei.com/consumer/cn/blog/topic/03102963204000008)
 JZ42 连续子数组的最大和 | [JZ042FindGreatestSumOfSubArray](/src/com/waylau/nowcoder/exam/oj/jianzhi/JZ042FindGreatestSumOfSubArray.java) |  [文章](https://developer.huawei.com/consumer/cn/forum/topic/0204102352622179160?fid=23)
 
 
